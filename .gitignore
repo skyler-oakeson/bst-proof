@@ -1,0 +1,10 @@
+.direnv/
+.vscode/
+*.csproj
+*.cs
+*.deps.json
+*.dll
+*.pdb
+*.runtimeconfig.json
+obj/
+main
